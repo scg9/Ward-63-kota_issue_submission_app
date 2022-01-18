@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094371262303",
+    "project_id": "ward-63-kota",
+    "storage_bucket": "ward-63-kota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094371262303:android:75e7fd51ec9250351900ea",
+        "android_client_info": {
+          "package_name": "com.example.ward63kota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094371262303-mt7f0piauuc8on1t95o72tfd4ctfqvr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDD5CDFfYYgoZVi4TFDmuM-zV8suoi44c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094371262303-mt7f0piauuc8on1t95o72tfd4ctfqvr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

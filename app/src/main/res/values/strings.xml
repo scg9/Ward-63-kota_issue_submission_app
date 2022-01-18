@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ward 63 Kota</string>
+    <string name="detail">Enter Your Details</string>
+    <string name="desc">This app is solely made for feedback and complaints regarding maintenance in ward no. 63 - Nagar Nigam, Kota. Our Aim is to make this ward a better place to live in and your contribution is most important to us.\nFor Submitting complaint / feedback, please scroll down and click on "SUBMIT" button. </string>
+    <string name="deschindi">यह ऐप केवल वार्ड नंबर 63 - नगर निगम, कोटा में विकास के संबंध में प्रतिक्रिया और शिकायतों के लिए बनाया गया है।  हमारा उद्देश्य इस वार्ड को रहने के लिए बेहतर जगह बनाना है और आपका योगदान हमारे लिए सबसे महत्वपूर्ण है।\nशिकायत / प्रतिक्रिया सबमिट करने के लिए, कृपया नीचे स्क्रॉल करें और "SUBMIT" बटन पर क्लिक करें।</string>
+    <string name="note">NOTE: Your name and contact number will also be submitted while submitting the complaint.</string>
+    <string name="notehindi">नोट: शिकायत दर्ज करते समय आपका नाम और संपर्क नंबर भी सबमिट किया जाएगा।</string>
+</resources>
